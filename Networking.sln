@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A5FA5746-370B-6080-90B9-94A97B49E98B}") = "Networking", "Assembly-CSharp-firstpass.csproj", "{C74FB073-36AF-A3AA-EBE1-FF2DB8F39FBE}"
+EndProject
+Project("{A5FA5746-370B-6080-90B9-94A97B49E98B}") = "Networking", "Assembly-CSharp-Editor.csproj", "{A35867C3-6996-C14B-10FD-CAA721F66875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74FB073-36AF-A3AA-EBE1-FF2DB8F39FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74FB073-36AF-A3AA-EBE1-FF2DB8F39FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74FB073-36AF-A3AA-EBE1-FF2DB8F39FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74FB073-36AF-A3AA-EBE1-FF2DB8F39FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A35867C3-6996-C14B-10FD-CAA721F66875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35867C3-6996-C14B-10FD-CAA721F66875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35867C3-6996-C14B-10FD-CAA721F66875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35867C3-6996-C14B-10FD-CAA721F66875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
