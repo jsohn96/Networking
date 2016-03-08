@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{A5FA5746-370B-6080-90B9-94A97B49E98B}") = "Networking", "Assembly-CSharp-firstpass.csproj", "{C74FB073-36AF-A3AA-EBE1-FF2DB8F39FBE}"
 EndProject
+Project("{A5FA5746-370B-6080-90B9-94A97B49E98B}") = "Networking", "Assembly-CSharp.csproj", "{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}"
+EndProject
 Project("{A5FA5746-370B-6080-90B9-94A97B49E98B}") = "Networking", "Assembly-CSharp-Editor.csproj", "{A35867C3-6996-C14B-10FD-CAA721F66875}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{C74FB073-36AF-A3AA-EBE1-FF2DB8F39FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C74FB073-36AF-A3AA-EBE1-FF2DB8F39FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C74FB073-36AF-A3AA-EBE1-FF2DB8F39FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F14DBB1-0CE9-AC1B-4FB8-ED0D0AEE9840}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A35867C3-6996-C14B-10FD-CAA721F66875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A35867C3-6996-C14B-10FD-CAA721F66875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A35867C3-6996-C14B-10FD-CAA721F66875}.Release|Any CPU.ActiveCfg = Release|Any CPU
